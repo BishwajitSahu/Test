@@ -45,6 +45,6 @@ public class IrctcResourceController {
 	
 	@GetMapping("/hello")
 	public String welcome() {
-		return "HELLO...!";
+		return "HELLO...! Good Evening.";
 	}
 }
